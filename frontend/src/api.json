@@ -1,0 +1,5 @@
+{
+  "getNonAreaBikes": "https://t0ird9rp61.execute-api.us-west-2.amazonaws.com/latest/bicycle/nonarea",
+  "getAreaBikes": "https://t0ird9rp61.execute-api.us-west-2.amazonaws.com/latest/bicycle/area",
+  "getManagerAreas": "https://89te6woy1h.execute-api.us-west-2.amazonaws.com/latest/area/manager"
+}
