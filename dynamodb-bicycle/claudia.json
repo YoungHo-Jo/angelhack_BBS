@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "dynamodb-bicycle-executor",
+    "name": "dynamodb-bicycle",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "t0ird9rp61",
+    "module": "index"
+  }
+}

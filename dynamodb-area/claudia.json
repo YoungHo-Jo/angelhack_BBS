@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "dynamodb-area-executor",
+    "name": "dynamodb-area",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "89te6woy1h",
+    "module": "index"
+  }
+}
